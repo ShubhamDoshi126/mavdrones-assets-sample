@@ -1,0 +1,122 @@
+[
+  {
+    "name": "DJI Mavic 3",
+    "category": "Consumer",
+    "manufacturer": "DJI",
+    "type": "Quadcopter",
+    "max_flight_time": "46 minutes",
+    "max_range": "15 km",
+    "camera_resolution": "5.1K",
+    "price_range": "$2,199 - $4,799",
+    "weight": "895g",
+    "max_speed": "19 m/s"
+  },
+  {
+    "name": "DJI Mini 4 Pro",
+    "category": "Consumer",
+    "manufacturer": "DJI",
+    "type": "Quadcopter",
+    "max_flight_time": "34 minutes",
+    "max_range": "20 km",
+    "camera_resolution": "4K",
+    "price_range": "$759 - $1,199",
+    "weight": "249g",
+    "max_speed": "16 m/s"
+  },
+  {
+    "name": "Autel EVO Lite+",
+    "category": "Professional",
+    "manufacturer": "Autel",
+    "type": "Quadcopter",
+    "max_flight_time": "40 minutes",
+    "max_range": "12 km",
+    "camera_resolution": "6K",
+    "price_range": "$1,049 - $1,549",
+    "weight": "835g",
+    "max_speed": "15 m/s"
+  },
+  {
+    "name": "Skydio 2+",
+    "category": "Professional",
+    "manufacturer": "Skydio",
+    "type": "Quadcopter",
+    "max_flight_time": "27 minutes",
+    "max_range": "6 km",
+    "camera_resolution": "4K",
+    "price_range": "$1,349",
+    "weight": "775g",
+    "max_speed": "16 m/s"
+  },
+  {
+    "name": "Parrot Anafi USA",
+    "category": "Commercial",
+    "manufacturer": "Parrot",
+    "type": "Quadcopter",
+    "max_flight_time": "32 minutes",
+    "max_range": "4 km",
+    "camera_resolution": "4K",
+    "price_range": "$7,000",
+    "weight": "500g",
+    "max_speed": "15 m/s"
+  },
+  {
+    "name": "DJI Air 3",
+    "category": "Consumer",
+    "manufacturer": "DJI",
+    "type": "Quadcopter",
+    "max_flight_time": "46 minutes",
+    "max_range": "20 km",
+    "camera_resolution": "4K",
+    "price_range": "$1,549",
+    "weight": "720g",
+    "max_speed": "21 m/s"
+  },
+  {
+    "name": "DJI FPV",
+    "category": "Racing",
+    "manufacturer": "DJI",
+    "type": "Quadcopter",
+    "max_flight_time": "20 minutes",
+    "max_range": "10 km",
+    "camera_resolution": "4K",
+    "price_range": "$1,299",
+    "weight": "795g",
+    "max_speed": "39 m/s"
+  },
+  {
+    "name": "Yuneec Typhoon H Plus",
+    "category": "Professional",
+    "manufacturer": "Yuneec",
+    "type": "Hexacopter",
+    "max_flight_time": "25 minutes",
+    "max_range": "1.6 km",
+    "camera_resolution": "4K",
+    "price_range": "$1,799",
+    "weight": "1.85kg",
+    "max_speed": "14 m/s"
+  },
+  {
+    "name": "Holy Stone HS720E",
+    "category": "Consumer",
+    "manufacturer": "Holy Stone",
+    "type": "Quadcopter",
+    "max_flight_time": "46 minutes",
+    "max_range": "1 km",
+    "camera_resolution": "4K",
+    "price_range": "$399",
+    "weight": "510g",
+    "max_speed": "10 m/s"
+  },
+  {
+    "name": "Potensic ATOM SE",
+    "category": "Consumer",
+    "manufacturer": "Potensic",
+    "type": "Quadcopter",
+    "max_flight_time": "31 minutes",
+    "max_range": "4 km",
+    "camera_resolution": "4K",
+    "price_range": "$249",
+    "weight": "249g",
+    "max_speed": "16 m/s"
+  }
+]
