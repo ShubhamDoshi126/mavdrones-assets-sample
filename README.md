@@ -1,0 +1,1 @@
+# mavdrones-assets-sample
